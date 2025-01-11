@@ -1,6 +1,8 @@
 # 📇 Simple Profile Card
 
-This project is a single-page website that allows you to create a simple and elegant profile card to share with others. It's a fun experiment where I used Figma to design the website and then converted it to HTML and CSS.
+[![pages-build-deployment](https://github.com/Mr-MRF-Dev/Simple-Profile-Card/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Mr-MRF-Dev/Simple-Profile-Card/actions/workflows/pages/pages-build-deployment)
+
+This single-page website project allows you to create a simple and elegant profile card to share with others. It's a fun experiment where I used Figma to design the website and then converted it to HTML and CSS.
 
 ![Simple Profile Card](./assets/images/simple-profile-card.jpg)
 
@@ -43,11 +45,11 @@ The design was created using [Figma](https://www.figma.com/community/file/140096
 4. Open the `index.html` file in your browser
 
     You can use the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension in VSCode.
-    Alternatively, you can do this by right-clicking on the file and selecting `Open with` and then selecting your browser.
+    Alternatively, you can do this by right-clicking on the file, selecting `Open with`, and then selecting your browser.
 
 ## 🤝 Contributing
 
-We welcome any contributions you may have. If you're interested in helping out, please fork the repository and create an [Issue](https://github.com/Mr-MRF-Dev/Simple-Profile-Card/issues) or [Pull Request](https://github.com/Mr-MRF-Dev/Simple-Profile-Card/pulls).
+We'd like to hear from you about any contributions you may have. If you're interested in helping out, please fork the repository and create an [Issue](https://github.com/Mr-MRF-Dev/Simple-Profile-Card/issues) or [Pull Request](https://github.com/Mr-MRF-Dev/Simple-Profile-Card/pulls).
 
 ## 📝 License
 
